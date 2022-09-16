@@ -23,4 +23,13 @@ while(ano < 101) {
     ano++;
     retto++;
 }
+
+let culo = prompt("vai a fare in culo")
+
+document.write(culo)
+
+let sesso = 0.2; 
+let furioso = 0.3;
+
+document.write(sesso + furioso)
  
